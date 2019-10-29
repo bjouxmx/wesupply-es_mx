@@ -2,7 +2,7 @@
   "admins":"Administradores",
 "add":"Añadir",
 "email":"email nuevo administrador ",
-"del":"eliminar administrador",
-"admin_list":"Listado de administradores"
+"del":"eliminar",
+"admin_list":"Administradores activos"
 
 }
