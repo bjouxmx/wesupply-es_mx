@@ -1,0 +1,27 @@
+{
+  "hello_msg":"Hola. Permite encontrar su pedido !,",
+"enter_email":"Ingrese su correo electrónico o número de seguimiento,",
+"track_order":"Orden de pista,",
+"email_check":"¡Consultar su correo electrónico!,",
+"email_sent":"Hemos enviado un correo electrónico a {{valor}}.,",
+"email_instr":"Ver el correo electrónico y pulsa en el enlace dentro de firmar al instante en su valor {{}} cuenta.,",
+"order_not_found":"Para no encontró !,",
+"enter_correct_details":"Asegúrese de introducir los detalles de la orden correcto !,",
+"need_help":"Orden de regalo? ¿Sin correo electrónico? ¿Necesitas ayuda?,",
+"use_personal_info":"¡No hay problema! Vamos a tratar de encontrar su pedido a través de otra información personal,",
+"find_order":"Encuentra su pedido,",
+"order_num":"Número de orden,",
+"order_num_desc":"Escribe en el orden que se busca.,",
+"zip_code":"código postal,",
+"zip_code_desc":"Escribir el código postal de su dirección de envío.,",
+"first_name":"primer nombre,",
+"last_name":"apellido,",
+"name_desc":"Escribir el nombre y apellido del recepient orden.,",
+"email":"correo electrónico,",
+"email_desc":"Introduzca la dirección de correo electrónico a la que desea recibir la información del pedido.,",
+"back":"Atrás,",
+"latest_update":"ÚLTIMA ACTUALIZACIÓN,",
+"show_details":"+ Mostrar detalles,",
+"hide_details":"- Ocultar detalles"
+
+}

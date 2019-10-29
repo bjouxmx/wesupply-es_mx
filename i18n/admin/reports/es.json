@@ -1,0 +1,22 @@
+{
+  "reports":"Informes",
+"last_run":"Última ejecución: {{valor}} UTC",
+"indexed":"Indexados {{valor}} hace",
+"index_logs":"Registros de indexación",
+"status":"Estado",
+"category":"Categoría",
+"run":"correr",
+"finished":"Terminado",
+"result":"Resultado",
+"triggered":"desencadenada",
+"failed":"Ha fallado",
+"aut_sch":"Programación automática",
+"manual":"Manualmente por el Usuario",
+"success":"Completado satisfactoriamente",
+"unk":"Desconocido",
+"email_notif":"Notificaciónes de Correo Electrónico",
+"no_email_subscribers":"No hay suscriptores de correo electrónico",
+"email_address":"Dirección de correo electrónico",
+"subscribe":"Suscribir"
+
+}

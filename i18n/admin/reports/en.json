@@ -1,0 +1,23 @@
+{
+  "reports" : "Reports",
+  "last_run" : "Last run: {{value}} UTC",
+  "indexed" : "Indexed {{value}} ago",
+  "index_logs" : "Indexing Logs",
+  "status" : "Status",
+  "category" : "Category",
+  "run" : "Run",
+  "finished" : "Finished",
+  "result" : "Result",
+  "triggered" : "Triggered",
+  "failed" : "Failed",
+  "aut_sch" : "Automatic Schedule",
+  "manual" : "Manually by User",
+  "success" : "Completed Successfully",
+  "unk" : "Unknown",
+
+  "email_notif": "Email Notifications",
+  "no_email_subscribers" : "There are no email subscribers",
+  "email_address" : "Email Address",
+  "subscribe" : "Subscribe"
+
+}
